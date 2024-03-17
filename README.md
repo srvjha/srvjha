@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-one-lake.vercel.app/](https://personal-portfolio-one-lake.vercel.app/)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I occasionally write articles on [Medium](Medium)
 
 - 💬 Ask me about **react , javascript**
 
