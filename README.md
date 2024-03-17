@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav Jha</h1>
 <h3 align="center">Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [Blogify Hub](https://github.com/srvjha/Blogify-Hub)
+- 🔭 My latest Project--> [Blogify Hub](https://github.com/srvjha/Blogify-Hub)
+- 🧑🏻‍💻 I'm currently [Video-Transcripty](https://github.com/srvjha/Video-Transcriptify)
 
 - 🌱 I’m currently learning **Backend Developement and Operating System**
 
