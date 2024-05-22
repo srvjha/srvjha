@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer.</h3>
 
 - 🔭 My latest Project--> [Blogify Hub](https://github.com/srvjha/Blogify-Hub)
-- 🧑🏻‍💻 I'm currently building [Video-Transcripty](https://github.com/srvjha/Video-Transcriptify)
+- 🧑🏻‍💻 I'm currently building [Video-Transcriptify](https://github.com/srvjha/Video-Transcriptify)
 
 - 🌱 I’m currently learning **Backend Developement and Operating System**
 
