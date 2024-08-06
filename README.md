@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurav Jha</h1>
 <h3 align="center">Full Stack Developer.</h3>
 
-- 🔭 My latest Project--> [Blogify Hub](https://github.com/srvjha/Blogify-Hub)
-- 🧑🏻‍💻 I'm currently building [Video-Transcriptify](https://github.com/srvjha/Video-Transcriptify)
+- 🔭 My latest Project--> [Video-Transcriptify](https://github.com/srvjha/Video-Transcriptify)
+- 🧑🏻‍💻 I'm currently building Social Dukaan(Coming soon...)
 
-- 🌱 I’m currently learning **Backend Developement and Operating System**
+- 🌱 I’m currently learning **Backend Development and Operating System**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-one-lake.vercel.app/](https://personal-portfolio-one-lake.vercel.app/)
 
