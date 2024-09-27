@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jhasaurav0209001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iL_7YDHMy0u7z1Ky3tfJdRel3qjWYvam/view](https://drive.google.com/file/d/1iL_7YDHMy0u7z1Ky3tfJdRel3qjWYvam/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iL_7YDHMy0u7z1Ky3tfJdRel3qjWYvam/view)
 
 - ⚡ Fun fact **Crazy Cricket Nerd**
 
