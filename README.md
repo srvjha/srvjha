@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Backend Development and Operating System**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-one-lake.vercel.app/](https://personal-portfolio-one-lake.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://personal-portfolio-srvjha.vercel.app/)
 
-- 📝 I occasionally write articles on [Medium](Medium)
+- 📝 I occasionally write articles on [Medium](Medium) [Hashnode](https://srvjha.hashnode.dev/)
 
 - 💬 Ask me about **react , javascript**
 
