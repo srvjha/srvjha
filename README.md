@@ -4,18 +4,18 @@
 - 🔭 My latest Project--> [Shrnkit URL](https://github.com/srvjha/Url-Shortener)
 - 🧑🏻‍💻 I'm currently building Book Dukaan(Coming soon...)
 
-- 🌱 I’m currently learning **Backend Development and Operating System**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://personal-portfolio-srvjha.vercel.app/)
 
 - 📝 I occasionally write articles on [Medium](Medium) [Hashnode](https://srvjha.hashnode.dev/)
 
-- 💬 Ask me about **react , javascript**
+- 💬 Ask me about **react , javascript , nextjs**
 
 - 📫 How to reach me **jhasaurav0209001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=sharing)
-- ⚡ Fun fact **Crazy Cricket Nerd**
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=sharing](https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=drive_link))
+- ⚡ Fun fact **Cricket Nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
