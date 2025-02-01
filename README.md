@@ -1,33 +1,76 @@
 <h1 align="center">Hi 👋, I'm Saurav Jha</h1>
-<h3 align="center">Full Stack Developer.</h3>
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
 
-- 🔭 My latest Project--> [Shrnkit URL](https://github.com/srvjha/Url-Shortener)
-- 🧑🏻‍💻 I'm currently building Book Dukaan(Coming soon...)
+---
 
-- 🌱 I’m currently learning **AI Agents**
+### 🔥 About Me
+- 🚀 **Building:** Currently working on **Book Dukaan** (Coming soon...)
+- 🛠️ **Latest Project:** [Shrnkit URL - A Modern URL Shortener](https://github.com/srvjha/Url-Shortener)
+- 📖 **Learning:** Exploring **AI Agents** and their applications in Full-Stack development.
+- 📝 **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
+- 💬 **Ask me about:** **React, Next.js, JavaScript, Full-Stack Development**
+- 🎯 **Fun Fact:** Cricket Nerd & loves tech deep dives!
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://personal-portfolio-srvjha.vercel.app/)
+---
 
-- 📝 I occasionally write articles on [Medium](Medium) [Hashnode](https://srvjha.hashnode.dev/)
+### 🌐 Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_srv001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-jha-a30362196/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-srvjha.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-%23FF4081.svg?&style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=sharing)
 
-- 💬 Ask me about **react , javascript , nextjs**
+---
 
-- 📫 How to reach me **jhasaurav0209001@gmail.com**
+### 🛠 Tech Stack & Tools
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=sharing](https://drive.google.com/file/d/1788jWxIUPFDlLjAMBE94Ucwc2rrZK7sH/view?usp=drive_link))
-- ⚡ Fun fact **Cricket Nerd**
+#### 💻 Programming & Frameworks:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/j_srv001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_srv001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-jha-a30362196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurav-jha-a30362196/" height="30" width="40" /></a>
-</p>
+#### 📦 Databases & Backend:
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### 🎨 UI & Styling:
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srvjha&show_icons=true&locale=en&layout=compact" alt="srvjha" /></p>
+#### 🔧 DevOps & Tools:
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvjha&show_icons=true&theme=radical)
+---
+
+### 📊 GitHub Stats
+
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvjha&show_icons=true&theme=radical&count_private=true)
 
 ![Saurav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=srvjha&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvjha&layout=compact&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srvjha&theme=react-dark)](https://github.com/srvjha)
+
+---
+
+### 🚀 Open Source Contributions
+- Check out my repositories at [GitHub](https://github.com/srvjha?tab=repositories)
+- Contributions to various projects including **Next.js, Open Source Tools, and Web Development Libraries**
+
+---
+
+### 🏆 Achievements & Certifications
+- ✅ Full Stack Development | JavaScript | React | Next.js
+- 🎓 Certified in Web Performance Optimization
+- 🎖 Recognized contributor in Open Source communities
+
+---
+
+💡 _Always learning, exploring, and building! Connect with me for collaboration or any exciting opportunities._ 🚀
