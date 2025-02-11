@@ -50,11 +50,11 @@
 
 ### 📊 GitHub Stats
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvjha&show_icons=true&theme=radical&count_private=true)
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvjha&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-![Saurav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=srvjha&theme=blue-green)
+![Saurav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=srvjha&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvjha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvjha&layout=compact&theme=vision-friendly-dark)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srvjha&theme=react-dark)](https://github.com/srvjha)
 
