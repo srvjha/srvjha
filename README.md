@@ -8,7 +8,7 @@
 - 🛠️ **Latest Project:** [Shrnkit URL - A Modern URL Shortener](https://github.com/srvjha/Url-Shortener)
 - 📖 **Learning:** Exploring **AI Agents** and their applications in Full-Stack development.
 - 📝 **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
-- 💬 **Ask me about:** **React, Next.js, JavaScript, Full-Stack Development**
+- 💬 **Ask me about:** **React, Next.js, JavaScript, Node **
 - 🎯 **Fun Fact:** Cricket Nerd & loves tech deep dives!
 
 ---
