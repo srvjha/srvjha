@@ -4,11 +4,11 @@
 ---
 
 ### 🔥 About Me
-- 🚀 **Building:** Currently working on **Pictron** (Coming soon...)
-- 🛠️ **Latest Project:** [Shrnkit URL - A Modern URL Shortener](https://github.com/srvjha/Url-Shortener)
+- 🚀 **Building:** Currently working on **CodeWarriors** (Coming soon...)
+- 🛠️ **Latest Product:** [UIgnite - UI Component Library](https://github.com/srvjha/UIgnite)
 - 📖 **Learning:** Exploring **AI Agents** and their applications in Full-Stack development.
 - 📝 **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
-- 💬 **Ask me about:** **React, Next.js, JavaScript, Node**
+- 💬 **Ask me about:** **React, Next.js, JavaScript,Typescript, Node**
 - 🎯 **Fun Fact:** Cricket Nerd & loves tech deep dives!
 
 ---
