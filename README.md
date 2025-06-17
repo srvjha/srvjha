@@ -4,7 +4,7 @@
 ---
 
 ### 🔥 About Me
-- 🚀 **Building:** Currently working on **CodeWarriors** (Coming soon...)
+- 🚀 **Building:** Currently working on **CodeWarriors** ([Beta v0](https://github.com/srvjha/codewarriors))
 - 🛠️ **Latest Product:** [UIgnite - UI Component Library](https://github.com/srvjha/UIgnite)
 - 📖 **Learning:** Exploring **AI Agents** and their applications in Full-Stack development.
 - 📝 **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
