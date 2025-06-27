@@ -16,8 +16,8 @@
 ### 🌐 Connect With Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_srv001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-jha-a30362196)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-srvjha.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-%23FF4081.svg?&style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15THCAWPaRdOA2utMdN9UTkiLxqo6jNvq/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://srvjha.in)
+[![Resume](https://img.shields.io/badge/Resume-%23FF4081.svg?&style=for-the-badge&logo=googledrive&logoColor=white)](https://www.srvjha.in/resume/srvjha.pdf)
 
 ---
 
