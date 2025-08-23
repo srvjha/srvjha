@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurav Jha</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center"> Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
 
 ---
 
-### 🔥 About Me
-- 🚀 **Building:** Currently working on **CodeWarriors** ([Beta v0](https://github.com/srvjha/codewarriors))
-- 🛠️ **Latest Product:** [UIgnite - UI Component Library](https://github.com/srvjha/UIgnite)
+###  About Me
+- 🚀 **Building:** Currently working on **Notecast** ([Notecast](https://github.com/srvjha/notecast))
+- 🛠️ **Latest Product:** [CodeWarriors - Coding Platform for learner](https://github.com/srvjha/Codewarriors)
 - 📖 **Learning:** Exploring **AI Agents** and their applications in Full-Stack development.
 - 📝 **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
 - 💬 **Ask me about:** **React, Next.js, JavaScript,Typescript, Node**
