@@ -3,7 +3,7 @@
 
 ---
 ###  About Me
-- 🏗️ **Building:** Currently working on **Thumbai** ([Thumbai](https://github.com/srvjha/thumbai))
+- 🏗️ **Building:** Currently working on **Thumbai:** [Thumbai](https://github.com/srvjha/thumbai)
 - 🌟 **My Best Work Till now:** [CodeWarriors - Coding Platform for learner](https://github.com/srvjha/Codewarriors)
 - 🤖 **Exploring:** Creating **AI Agents** and their applications in Full-Stack development.
 - ✍️ **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
