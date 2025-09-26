@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/> Hi there, I m Saurav Jha.</h1>
-<h3 align="center"> Full Stack Genai Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center"> Full Stack Developer | GenAI Developer | Open Source Contributor</h3>
 
 ---
 ###  About Me
