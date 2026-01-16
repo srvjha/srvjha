@@ -105,4 +105,4 @@
 
 ---
 
-💡 _Always learning, exploring, and building! Connect with me for collaboration or any exciting opportunities._ 🚀
+💡 _Always learning, exploring, and building!_ 🚀
