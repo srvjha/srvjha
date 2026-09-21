@@ -1,108 +1,64 @@
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/> Hi there, I m Saurav Jha.</h1>
-<h3 align="center"> Full Stack Developer | GenAI Developer | Open Source Contributor</h3>
+### Saurav Jha
 
----
-###  About Me
-- 🏗️ **Building:** Currently working on: [Thumbai](https://github.com/srvjha/thumbai)
-- 🌟 **My Best Work Till now:** [CodeWarriors - Coding Platform](https://github.com/srvjha/Codewarriors)
-- 🤖 **Exploring:** Creating **AI Agents** and their applications in Full-Stack development.
-- ✍️ **Tech Writing:** I write insightful articles on [Medium](https://medium.com/@srvjha) & [Hashnode](https://srvjha.hashnode.dev/).
-- 💡 **Ask me about:** **JavaScript,Typescript,Node,AI,System Design**
-- 🏏 **Fun Fact:** Cricket Nerd & loves tech deep dives!
+I build AI agents and RAG pipelines, and the harness that keeps them honest.
+Tool calling, memory, guardrails, evals, and a cost line on every request.
 
----
+Software Engineer at **Bug0**, where the agents I build write, run and repair
+end-to-end test suites on their own. Before that, six production apps and the
+real-time systems underneath them.
 
-### 🌐 Connect With Me:
-[![X](https://img.shields.io/badge/X-black)](https://twitter.com/j_srv001)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/saurav-jha-a30362196)
-[![Portfolio](https://img.shields.io/badge/portfolio-white)](https://srvjha.in)
-[![Resume](https://img.shields.io/badge/resume-darkred)](https://www.srvjha.in/resume/srvjha.pdf)
+[![srvjha.in](https://img.shields.io/badge/srvjha.in-F2A33C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0ibWRpLXdlYiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTYuMzYsMTRDMTYuNDQsMTMuMzQgMTYuNSwxMi42OCAxNi41LDEyQzE2LjUsMTEuMzIgMTYuNDQsMTAuNjYgMTYuMzYsMTBIMTkuNzRDMTkuOSwxMC42NCAyMCwxMS4zMSAyMCwxMkMyMCwxMi42OSAxOS45LDEzLjM2IDE5Ljc0LDE0TTE0LjU5LDE5LjU2QzE1LjE5LDE4LjQ1IDE1LjY1LDE3LjI1IDE1Ljk3LDE2SDE4LjkyQzE3Ljk2LDE3LjY1IDE2LjQzLDE4LjkzIDE0LjU5LDE5LjU2TTE0LjM0LDE0SDkuNjZDOS41NiwxMy4zNCA5LjUsMTIuNjggOS41LDEyQzkuNSwxMS4zMiA5LjU2LDEwLjY1IDkuNjYsMTBIMTQuMzRDMTQuNDMsMTAuNjUgMTQuNSwxMS4zMiAxNC41LDEyQzE0LjUsMTIuNjggMTQuNDMsMTMuMzQgMTQuMzQsMTRNMTIsMTkuOTZDMTEuMTcsMTguNzYgMTAuNSwxNy40MyAxMC4wOSwxNkgxMy45MUMxMy41LDE3LjQzIDEyLjgzLDE4Ljc2IDEyLDE5Ljk2TTgsOEg1LjA4QzYuMDMsNi4zNCA3LjU3LDUuMDYgOS40LDQuNDRDOC44LDUuNTUgOC4zNSw2Ljc1IDgsOE01LjA4LDE2SDhDOC4zNSwxNy4yNSA4LjgsMTguNDUgOS40LDE5LjU2QzcuNTcsMTguOTMgNi4wMywxNy42NSA1LjA4LDE2TTQuMjYsMTRDNC4xLDEzLjM2IDQsMTIuNjkgNCwxMkM0LDExLjMxIDQuMSwxMC42NCA0LjI2LDEwSDcuNjRDNy41NiwxMC42NiA3LjUsMTEuMzIgNy41LDEyQzcuNSwxMi42OCA3LjU2LDEzLjM0IDcuNjQsMTRNMTIsNC4wM0MxMi44Myw1LjIzIDEzLjUsNi41NyAxMy45MSw4SDEwLjA5QzEwLjUsNi41NyAxMS4xNyw1LjIzIDEyLDQuMDNNMTguOTIsOEgxNS45N0MxNS42NSw2Ljc1IDE1LjE5LDUuNTUgMTQuNTksNC40NEMxNi40Myw1LjA3IDE3Ljk2LDYuMzQgMTguOTIsOE0xMiwyQzYuNDcsMiAyLDYuNSAyLDEyQTEwLDEwIDAgMCwwIDEyLDIyQTEwLDEwIDAgMCwwIDIyLDEyQTEwLDEwIDAgMCwwIDEyLDJaIiAvPjwvc3ZnPg==&logoColor=0b0b0d)](https://srvjha.in) [![blogs.srvjha.in](https://img.shields.io/badge/blogs.srvjha.in-1f2328?style=flat-square&logo=rss&logoColor=F2A33C)](https://blogs.srvjha.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/srvjha02) [![@J_srv001](https://img.shields.io/badge/%40J__srv001-1f2328?style=flat-square&logo=x&logoColor=white)](https://x.com/J_srv001) [![Email](https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:jhasaurav0209001@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p style="display: flex">
-<p>Languages</p>
+### Now
 
-<div>
-
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
-
-
-
-
-<p>Frontend</p>
-<!-- Frontend -->
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-16b9d9?style=flat-square&logo=react&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="Zustand" src="https://img.shields.io/badge/-Zustand-395ABC?style=flat-square&logo=zustand&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7022?style=flat-square&logo=styled-components&logoColor=white" />
-
-<!-- Backend -->
-<p>Backend</p>
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-91253d?style=flat-square&logo=express&logoColor=white" />
-<img alt="Fastify" src="https://img.shields.io/badge/-Fastify-31253d?style=flat-square&logo=fastify&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<p>Cloud</p>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img alt="BullMQ" src="https://img.shields.io/badge/-BullMQ-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-
-<p>Tools</p>
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="AI" src="https://img.shields.io/badge/-AI-ff1921?style=flat-square&logo=openai&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
-<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-2b6cb0?style=flat-square&logo=langchain&logoColor=white" />
-
-
+- Building AI agents at Bug0 that generate, execute and repair Playwright suites through LLM tool calling, with self-healing tests that regenerate when DOM or selectors drift.
+- Writing up whatever I take apart, at [blogs.srvjha.in](https://blogs.srvjha.in). 27 articles so far.
+- Going deeper on retrieval evaluation. Measuring a pipeline honestly is harder than building one.
 
 ---
 
-### 📊 GitHub Stats
+### Selected work
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvjha&show_icons=true&theme=vision-friendly-dark&count_private=true)
-
-![Saurav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=srvjha&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srvjha&layout=compact&theme=vision-friendly-dark)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srvjha&theme=react-dark)](https://github.com/srvjha)
-
----
-
-### 🚀 Open Source Contributions
-- Check out my repositories at [GitHub](https://github.com/srvjha?tab=repositories)
-- Contributions to various projects including **Next.js, Open Source Tools, and Web Development Libraries**
+| | What it is | |
+|---|---|---|
+| **[pragatiLM](https://github.com/srvjha/pragatiLM)** | A research notebook that answers only from your sources, with a locator on every claim. Five query variants per turn, reciprocal rank fusion at k&nbsp;=&nbsp;60, and CRAG-style grading that retries below 6 and refuses below 3. | [live](https://pragati.srvjha.in) |
+| **[Yugati](https://github.com/srvjha/yugati)** | A Gmail and Calendar agent on the OpenAI Agents SDK. Prompt-injection classifier and PII filter running alongside generation, per-request token and cost logging, 51 tests in CI, paid in INR. | [live](https://yugati.in) |
+| **[NoteCast](https://github.com/srvjha/Notionary-LLM)** | PDFs, articles and YouTube into one Qdrant index, with every answer anchored to the chunk it came from. | [live](https://notecast.srvjha.in) |
+| **[CodeWarriors](https://github.com/srvjha/codewarriors)** | DSA practice platform. Untrusted submissions run on Judge0 across Cloudflare Workers and GCP, never on the app server. | [live](https://codewarriors.srvjha.in) |
+| **[FormCraft](https://github.com/srvjha/form-builder)** | Form builder with 14 field types, a 50-step undo history and response analytics, typed end to end over tRPC. | [live](https://formcraft.srvjha.in) |
 
 ---
 
-### 🏆 Achievements & Certifications
-- ✅ Full Stack Development | JavaScript | React | Next.js
-- 🎓 Certified in Web Performance Optimization
-- 🎖 Recognized contributor in Open Source communities
+### Stack
+
+| | |
+|---|---|
+| **Retrieval** | RAG, HyDE, query rewriting, reciprocal rank fusion, reranking, semantic chunking, CRAG self-correction, hit-rate and MRR evals |
+| **Guardrails** | Prompt-injection classification, PII filtering, structured outputs, per-request token and cost accounting |
+| **Agents** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4=&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-1f2328?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1f2328?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-1f2328?style=flat-square&logo=drizzle&logoColor=C5F74F) |
+| **Backend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Express](https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-1f2328?style=flat-square&logo=fastify&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white) |
+| **Interface** | ![Next.js](https://img.shields.io/badge/Next.js-1f2328?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-1f2328?style=flat-square&logo=threedotjs&logoColor=white) |
+| **Delivery** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=white) |
 
 ---
 
-💡 _Always learning, exploring, and building!_ 🚀
+### Writing
+
+Mostly about the layer underneath: how a model turns a message into an answer,
+how systems behave once load stops being theoretical, and what the protocols
+everyone uses are really doing.
+
+- [What Actually Happens When You Send a Message to ChatGPT?](https://blogs.srvjha.in/posts/what-actually-happens-when-you-send-a-message-to-chatgpt)
+- [How OIDC and OAuth Actually Work Under the Hood](https://blogs.srvjha.in/posts/how-oidc-and-oauth-actually-works-under-the-hood)
+- [Your Data Is Not Actually Stored in a Database](https://blogs.srvjha.in/posts/your-data-is-not-actually-stored-in-a-database)
+- [The Thundering Herd Problem in Distributed Systems](https://blogs.srvjha.in/posts/thundering-herd-problem)
+
+[All 27 articles →](https://blogs.srvjha.in)
+
+---
+
+Open to Applied AI Engineer roles.
+Reach me at [jhasaurav0209001@gmail.com](mailto:jhasaurav0209001@gmail.com).
